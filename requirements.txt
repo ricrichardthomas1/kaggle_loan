@@ -8,4 +8,4 @@ numpy
 seaborn
 scipy
 statsmodels
-sklearn
+scikit-learn
